@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167386156789",
+    "project_id": "pedla-cyclingapp",
+    "storage_bucket": "pedla-cyclingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167386156789:android:2dde78e8120ce3c7bcbfbc",
+        "android_client_info": {
+          "package_name": "com.example.pedla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167386156789-co7q4kbesgp2fhdtvb4aggp7el60eb29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedla",
+            "certificate_hash": "f10f9f5d1103d9aab2f5861ea0d350e3a045a868"
+          }
+        },
+        {
+          "client_id": "167386156789-er74e3p71oagjf96n9c285hvsro4lp6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-0hCT_BrlCHtZ-6JiRaqE0eL7WOvT2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167386156789-er74e3p71oagjf96n9c285hvsro4lp6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
